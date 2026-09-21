@@ -1,0 +1,7 @@
+Распакуй ЭТОТ архив в C:\\Artel так, чтобы получилось:
+
+  C:\\Artel\\Artel.exe
+  C:\\Artel\\app\\node_modules\\@next\\env\\package.json
+
+Если проводник создал C:\\Artel\\Artel\\ — вырежи всё из внутренней папки и вставь в C:\\Artel.
+Не запускай старый exe, пока не появится папка @next\\env.
